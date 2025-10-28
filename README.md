@@ -2,6 +2,12 @@ Nama: Rezha Amelia Putri Firmansyah
 Npm: 07352311127
 Kelas : 5IF1 
 
+LINK YOUTUBE : [https://youtu.be/2xdSHyNPssc
+](https://youtu.be/2xdSHyNPssc?si=4UiQ_Eo1mVAVUgRS)
+
+
+---Program---
+
 import'dart:math';
 
 // CLASS ABSTRAK 
